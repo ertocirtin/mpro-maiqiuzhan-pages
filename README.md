@@ -1,2 +1,14 @@
 # mpro-maiqiuzhan-pages
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
